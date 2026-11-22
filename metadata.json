@@ -1,0 +1,8 @@
+{
+  "name": "SGPKOREA | Industrial Machinery Website Concept",
+  "description": "Independent industrial B2B website redesign concept for SEGAE PRECISION CO., LTD. (SGPKOREA), showcasing medical consumables manufacturing machinery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
